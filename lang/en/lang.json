@@ -66,5 +66,8 @@
   "home": "home",
   "workspace": "workspace",
   "processing": "processing",
-  "toAddWidget": "add widget"
+  "toAddWidget": "add widget",
+  "productionHistory": "production history",
+  "summary": "summary",
+  "sketch": "sketch"
 }
