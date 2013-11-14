@@ -2,6 +2,7 @@
   "wfm": "WFM",
   "wellFileManager": "well file manager",
   "name": "name",
+  "description": "description",
   "email": "email",
   "password": "password",
   "passwordConfirmation": "password confirmation",

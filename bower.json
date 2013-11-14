@@ -1,18 +1,19 @@
 {
   "name": "wfm-dict",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "homepage": "https://github.com/IvanRave/wfm-dict",
   "authors": [
     "Petrohelp"
   ],
   "description": "WFM dictionary",
-  "main": "lang/en/lang.json",
+  "main": ["lang/en/lang.json", "lang/ru/lang.json"],
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "bower.json"
   ]
 }
