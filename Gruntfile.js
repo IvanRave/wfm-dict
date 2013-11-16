@@ -7,7 +7,7 @@ module.exports = function (grunt) {
             files: ['package.json', 'bower.json'],
             updateConfigs: [],
             commit: true,
-            commitMessage: 'Release v%VERSION%',
+            commitMessage: 'feat(lang): add words',
             commitFiles: ['-a'],
             createTag: true,
             tagName: 'v%VERSION%',

@@ -14,6 +14,8 @@
   "saved": "saved",
   "saving": "saving",
   "toSave": "save",
+  "toAdd": "add",
+  "adding": "add",
   "viewing": "view",
   "toView": "view",
   "editing": "edit",
@@ -70,5 +72,7 @@
   "toAddWidget": "add widget",
   "productionHistory": "production history",
   "summary": "summary",
-  "sketch": "sketch"
+  "sketch": "sketch",
+  "settings": "settings",
+  "layout": "layout"
 }
