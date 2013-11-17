@@ -74,5 +74,8 @@
   "summary": "summary",
   "sketch": "sketch",
   "settings": "settings",
-  "layout": "layout"
+  "layout": "layout",
+  "toDeleteLayout": "delete layout",
+  "toCreateLayout": "create new layout",
+  "confirmToDelete": "are you sure you want to delete"
 }
