@@ -77,5 +77,6 @@
   "layout": "layout",
   "toDeleteLayout": "delete layout",
   "toCreateLayout": "create new layout",
-  "confirmToDelete": "are you sure you want to delete"
+  "confirmToDelete": "are you sure you want to delete",
+  "development": "development"
 }
