@@ -84,5 +84,6 @@
   "cropImage": "crop an image",
   "toCreateRecord": "create new record",
   "filterByDate": "filter by date",
-  "sortByDate": "sort by date"
+  "sortByDate": "sort by date",
+  "noWellHistoryList": "no well history"
 }
