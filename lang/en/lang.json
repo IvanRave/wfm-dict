@@ -78,5 +78,11 @@
   "toDeleteLayout": "delete layout",
   "toCreateLayout": "create new layout",
   "confirmToDelete": "are you sure you want to delete",
-  "development": "development"
+  "development": "development",
+  "documentation": "documentation",
+  "attachFile": "attach a file",
+  "cropImage": "crop an image",
+  "toCreateRecord": "create new record",
+  "filterByDate": "filter by date",
+  "sortByDate": "sort by date"
 }
