@@ -86,5 +86,8 @@
   "filterByDate": "filter by date",
   "sortByDate": "sort by date",
   "noWellHistoryList": "no well history",
-  "jobType": "job type"
+  "jobType": "job type",
+  "timePeriod": "period",
+  "toAddJobType": "add new job type",
+  "underConstruction": "under construction"
 }
