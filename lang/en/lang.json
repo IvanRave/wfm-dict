@@ -85,5 +85,6 @@
   "toCreateRecord": "create new record",
   "filterByDate": "filter by date",
   "sortByDate": "sort by date",
-  "noWellHistoryList": "no well history"
+  "noWellHistoryList": "no well history",
+  "jobType": "job type"
 }
