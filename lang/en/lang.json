@@ -84,10 +84,19 @@
   "cropImage": "crop an image",
   "toCreateRecord": "create new record",
   "filterByDate": "filter by date",
+  "filterByJobType": "filter by job type",
   "sortByDate": "sort by date",
   "noWellHistoryList": "no well history",
   "jobType": "job type",
   "timePeriod": "period",
-  "toAddJobType": "add new job type",
-  "underConstruction": "under construction"
+  "toAddJobTypeToList": "add job type to list",
+  "underConstruction": "under construction",
+  "toDeleteWell": "delete well",
+  "well": "well",
+  "dashboard": "dashboard",
+  "group": "group",
+  "region": "region",
+  "field": "field",
+  "fileManager": "file manager",
+  "volume": "volume"
 }
