@@ -98,5 +98,20 @@
   "region": "region",
   "field": "field",
   "fileManager": "file manager",
-  "volume": "volume"
+  "volume": "volume",
+  "date": "date",
+  "hour":"hour",
+  "hours": "hours",
+  "minute": "minute",
+  "minutes": "minutes",
+  "second": "second",
+  "seconds": "seconds",
+  "toCreateTest": "create new test",
+  "approve": "approve",
+  "decline": "decline",
+  "valid": "valid",
+  "invalid": "invalid",
+  "comment": "comment",
+  "toAddHour": "add hour",
+  "total": "total"
 }
