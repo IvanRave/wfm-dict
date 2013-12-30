@@ -119,5 +119,6 @@
   "invalid": "invalid",
   "comment": "comment",
   "toAddHour": "add hour",
-  "total": "total"
+  "total": "total",
+  "volumeAlreadyExists": "Volume with this file is already exists"
 }
