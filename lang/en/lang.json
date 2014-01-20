@@ -120,5 +120,11 @@
   "comment": "comment",
   "toAddHour": "add hour",
   "total": "total",
-  "volumeAlreadyExists": "Volume with this file is already exists"
+  "volumeOfWellAlreadyExists": "Volume with this file is already exists",
+  "fileSpecOfHistoryOfWellAlreadyExists": "This file is already attached to this well history",
+  "toSelectMapOfWield": "select map",
+  "createMapOfWieldFromFile": "add map",
+  "noSelectedMapOfWield": "no maps",
+  "isVisNameOfMapOfWield": "name",
+  "isVisImgOfMapOfWield": "map"
 }
