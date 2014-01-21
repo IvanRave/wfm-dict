@@ -126,5 +126,10 @@
   "createMapOfWieldFromFile": "add map",
   "noSelectedMapOfWield": "no maps",
   "isVisNameOfMapOfWield": "name",
-  "isVisImgOfMapOfWield": "map"
+  "isVisImgOfMapOfWield": "map",
+  "mapToolRuler": "ruler",
+  "mapToolMarker": "marker",
+  "mapToolArea": "area",
+  "mapToolScale": "scale",
+  "mapToolWellMarker": "well marker"
 }
