@@ -1,6 +1,6 @@
 {
   "name": "wfm-dict",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "WFM dictionary",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/IvanRave/wfm-dict",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "^0.4.5",
     "grunt-bump": "0.0.11"
   }
 }
